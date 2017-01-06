@@ -9,3 +9,7 @@ Day 2: January 4, 2017 <br>
 Progress: Spent some time going over my mentors code for a site he is designing and was able to learn alot of valuable information. Also continued work on web portfolio and added social media contact buttons with some javascript animations.<br>
 Links: https://github.com/jwsummers/web-portfolio <br>
        https://github.com/cmsbl/cmsbl
+
+Day 3: January 5, 2017 <br>
+Progress: Getting close to finishing web portfolio project. Fixed an issue with portfolio where "Home" button on navbar would not return to top of webpage. Added some text to contact section also. Finally ran through some of the git-it challanges to familiarize myself with using git.
+Links: https://github.com/jwsummers/web-portfolio
