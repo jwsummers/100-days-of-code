@@ -11,5 +11,5 @@ Links: https://github.com/jwsummers/web-portfolio <br>
        https://github.com/cmsbl/cmsbl
 
 Day 3: January 5, 2017 <br>
-Progress: Getting close to finishing web portfolio project. Fixed an issue with portfolio where "Home" button on navbar would not return to top of webpage. Added some text to contact section also. Finally ran through some of the git-it challanges to familiarize myself with using git.
+Progress: Getting close to finishing web portfolio project. Fixed an issue with portfolio where "Home" button on navbar would not return to top of webpage. Added some text to contact section also. Finally ran through some of the git-it challanges to familiarize myself with using git.<br>
 Links: https://github.com/jwsummers/web-portfolio
