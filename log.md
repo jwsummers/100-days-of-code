@@ -22,3 +22,8 @@ Day 5: January 7, 2017 <br>
 Progress: Woke up with the flu so I used every ounce of energy to make sure I got my coding time in for the day.Fixed a few syntax errors in web portfolio project. Then worked through the rest of the git- it guide through terminal and the npm package manager tutorial.Hoping to feel better tomorrow and start a new project.<br>
 Links:https://github.com/jwsummers/web-portfolio <br>
 http://jlord.us/git-it/
+
+Day 6: January 8, 2017 <br>
+Progress: Started the freecodecamp Random Quote Generator project. Got all the HTML and styling done for the most part and got the random quote generator to work. Npw just need to write the js to be able to share the quote via twitter.<br>
+Links: http://codepen.io/jwsummers/full/OWyygm/ <br>
+https://github.com/jwsummers/Quote-Generator
