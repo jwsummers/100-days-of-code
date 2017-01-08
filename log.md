@@ -17,3 +17,8 @@ Links: https://github.com/jwsummers/web-portfolio
 Day 4: January 6, 2017 <br>
 Progress: Worked through a tutorial on creating A Simple Web App With Node.js, Express, Bootstrap & Stormpath. Took a few times through to get everything working properly as this is fairly new work for me but in the end I was happy with the result. Will continue with node.js work as I hope to become proficient in using it. <br>
 Links: https://github.com/jwsummers/my-webapp
+
+Day 5: January 7, 2017 <br>
+Progress: Woke up with the flu so I used every ounce of energy to make sure I got my coding time in for the day.Fixed a few syntax errors in web portfolio project. Then worked through the rest of the git- it guide through terminal and the npm package manager tutorial.Hoping to feel better tomorrow and start a new project.<br>
+Links:https://github.com/jwsummers/web-portfolio <br>
+http://jlord.us/git-it/
