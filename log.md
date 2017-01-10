@@ -27,3 +27,8 @@ Day 6: January 8, 2017 <br>
 Progress: Started the freecodecamp Random Quote Generator project. Got all the HTML and styling done for the most part and got the random quote generator to work. Npw just need to write the js to be able to share the quote via twitter.<br>
 Links: http://codepen.io/jwsummers/full/OWyygm/ <br>
 https://github.com/jwsummers/Quote-Generator
+
+Day 7: January 9, 2017 <br>
+Progress: Finished Random Quote generator project and got tweet quote button to properly open twitter with current quote text in tweet box. Spent slightly too much time styling the heading but im ok with that.<br>
+Links: https://github.com/jwsummers/Quote-Generator <br>
+http://codepen.io/jwsummers/full/OWyygm/
