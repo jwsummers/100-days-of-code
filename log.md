@@ -32,3 +32,8 @@ Day 7: January 9, 2017 <br>
 Progress: Finished Random Quote generator project and got tweet quote button to properly open twitter with current quote text in tweet box. Spent slightly too much time styling the heading but im ok with that.<br>
 Links: https://github.com/jwsummers/Quote-Generator <br>
 http://codepen.io/jwsummers/full/OWyygm/
+
+Day 8: January 10, 2017 <br>
+Progress: My mentor @stephengfriend asked me to add content to a web page for his site he is designing as practice. I spent time writing the code and then viewed how it may look in basic form on the webpage. I will going farther with this but has to be an early night since I have a flight in the early morning. The challenge for the next week will be staying vigilant in coding while on vacation..<br>
+Links: I will just link the code on code pen I used as a visual to start.<br>
+http://codepen.io/jwsummers/full/JEGpWr/
